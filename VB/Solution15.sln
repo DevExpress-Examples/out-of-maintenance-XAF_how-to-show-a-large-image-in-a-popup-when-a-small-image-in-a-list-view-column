@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Solution15.Module.Win", "Solution15.Module.Win\Solution15.Module.Win.vbproj", "{D82941E5-A01C-4EAA-BDC3-1FA7AC15BE0F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Solution15.Win", "Solution15.Win\Solution15.Win.vbproj", "{E8894F60-D4F9-4D66-91F3-796872EB9BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D82941E5-A01C-4EAA-BDC3-1FA7AC15BE0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82941E5-A01C-4EAA-BDC3-1FA7AC15BE0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82941E5-A01C-4EAA-BDC3-1FA7AC15BE0F}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{D82941E5-A01C-4EAA-BDC3-1FA7AC15BE0F}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{D82941E5-A01C-4EAA-BDC3-1FA7AC15BE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82941E5-A01C-4EAA-BDC3-1FA7AC15BE0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8894F60-D4F9-4D66-91F3-796872EB9BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8894F60-D4F9-4D66-91F3-796872EB9BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8894F60-D4F9-4D66-91F3-796872EB9BAE}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{E8894F60-D4F9-4D66-91F3-796872EB9BAE}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{E8894F60-D4F9-4D66-91F3-796872EB9BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8894F60-D4F9-4D66-91F3-796872EB9BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
