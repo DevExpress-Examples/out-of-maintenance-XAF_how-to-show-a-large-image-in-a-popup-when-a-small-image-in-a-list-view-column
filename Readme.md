@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ShowImageController.cs](./CS/Solution15.Module.Win/ShowImageController.cs) (VB: [ShowImageController.vb](./VB/Solution15.Module.Win/ShowImageController.vb))
+<!-- default file list end -->
 # How to show a large image in a popup when a small image in a list view column is clicked
 
 
